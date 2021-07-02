@@ -1,4 +1,14 @@
 - commits:
+    - subject: vb
+      hash: 9aefe37ed6cb928e73a1edfd7e9109fd9e75364e
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: dfunckt
+  version: 5.0.2
+  date: 2021-07-02T16:03:10.356Z
+- commits:
     - subject: Delete .github directory
       hash: 17c509b8d8d9cc5239e10c4f65ee51f0600ae92a
       body: ''
